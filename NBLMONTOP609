@@ -5,4 +5,4 @@ Made by https://discord.gg/eUfTv8Hekf
 --]]
 -- stop skidding 😡
 
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Emplic/NOBULEM/main/loader.lua"))()
+loadstring(game:HttpGetAsync("https://nobulem.wtf/loader.lua"))()
